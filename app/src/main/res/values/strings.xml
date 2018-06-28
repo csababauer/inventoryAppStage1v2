@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InventoryAppStage1v2</string>
+    <string name="delete">delete all data</string>
+
+    <string name="action_save">save</string>
+</resources>
